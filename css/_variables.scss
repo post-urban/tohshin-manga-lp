@@ -1,0 +1,20 @@
+
+$container-max-width: 1440px;
+
+$breakpoints: (
+  "sm": "screen and (max-width: 450px)",
+  "md": "screen and (max-width: 768px)",
+  "lg": "screen and (max-width: 1000px)",
+  "xl": "screen and (max-width: 1400px)",
+) !default;
+
+// Colors
+$white: #FFF;
+$primary: #42210C;
+$secondary: #B1DA40;
+
+$bg-color: #F8F4EE;
+
+$orange: #E26956;
+
+$text-shadow-color: rgba(0, 0, 0, 0.15);
